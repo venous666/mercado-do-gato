@@ -17,4 +17,4 @@ function comprar (){
    else  if (produtos.value == "sopinha boa"){
         compra += "produto: " + produtos.value + " , valor: R$ 20,00"
     }
-    alert (compra)    
+    alert (compra)    }
